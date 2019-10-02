@@ -14,7 +14,9 @@ ul{
   margin: 0;
 padding: 0;
 width: 200px;
-background:crimson;
+background:maroon;
+text-align: center;
+font-family: 'Permanent Marker', cursive;
 }
 a{
 display: block;
