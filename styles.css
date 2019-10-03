@@ -1,12 +1,16 @@
 body{
 background-color: #D3D3D3;
+
 }
 .intro
 {
 font-family: 'Knewave', cursive;
 font-size: 50px;
 text-align: center;
-text-color: red;}
+text-color: red;
+
+}
+
 
 
 ul{
@@ -24,11 +28,16 @@ display: block;
 padding: 10px;
 text-decoration: none;
 color: #000;
-align-items: flex-end;
+align-content: flex-end;
+align: right;
 
 }
 a:hover{
 
   background: gray;
   color:#FFF;
+}
+.navbar{
+float:right;
+
 }
