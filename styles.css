@@ -5,9 +5,9 @@ background-color: #D3D3D3;
 .intro
 {
 font-family: 'Knewave', cursive;
-font-size: 50px;
+font-size: 23px;
 text-align: center;
-text-color: red;
+font color: center;
 
 }
 
@@ -39,5 +39,10 @@ a:hover{
 }
 .navbar{
 float:right;
+
+}
+.front{
+align-items: center;
+
 
 }
