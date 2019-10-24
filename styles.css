@@ -21,16 +21,15 @@ a {
   align: right;
 }
 
-a:hover {
-  background: gray;
-  color: #FFF;
-}
-
 .navbar {
   float: right;
 }
-.h3{
 
+h3 {
+  font-size: 60px;
+  position: inherit;
+  text-align-last: center;
+  font-family: 'Amatic SC', cursive;
 }
 
 .front {
@@ -40,6 +39,23 @@ a:hover {
   width: 50%;
 }
 
-.container {
-  font-size: 12px;
+.sign {
+  width: 185px;
+  height: 770px;
+  border-style: solid;
+  border-width: thick;
+}
+
+p {
+  font-size: 25px;
+  text-align-last: center;
+  font-family: 'Amatic SC', cursive;
+  font-family: 'Domine', serif;
+}
+
+.school {
+  width: 600px;
+  height: 300px;
+  border-style: solid;
+  border-width: thick;
 }
