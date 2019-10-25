@@ -1,5 +1,7 @@
 body {
   background-color: #D3D3D3;
+  border-style: double;
+  border-width:medium;
 }
 
 ul {
@@ -10,6 +12,8 @@ ul {
   background: maroon;
   text-align: center;
   font-family: 'Permanent Marker', cursive;
+  border-style: groove;
+
 }
 
 a {
@@ -51,11 +55,13 @@ p {
   text-align-last: center;
   font-family: 'Amatic SC', cursive;
   font-family: 'Domine', serif;
+  border-style: ridge;
+  border-color: maroon;
 }
 
 .school {
-  width: 600px;
-  height: 300px;
+  width: 597px;
+  height: 377px;
   border-style: solid;
   border-width: thick;
 }
