@@ -1,7 +1,6 @@
 body {
   background-color: #D3D3D3;
-  border-style: double;
-  border-width:medium;
+
 }
 
 ul {
@@ -12,7 +11,7 @@ ul {
   background: maroon;
   text-align: center;
   font-family: 'Permanent Marker', cursive;
-  border-style: groove;
+
 
 }
 
@@ -26,7 +25,7 @@ a {
 }
 
 .navbar {
-  float: right;
+color: white;
 }
 
 h3 {
@@ -46,8 +45,7 @@ h3 {
 .sign {
   width: 185px;
   height: 770px;
-  border-style: solid;
-  border-width: thick;
+
 }
 
 p {
@@ -55,13 +53,12 @@ p {
   text-align-last: center;
   font-family: 'Amatic SC', cursive;
   font-family: 'Domine', serif;
-  border-style: ridge;
-  border-color: maroon;
+
 }
 
 .school {
-  width: 597px;
-  height: 377px;
-  border-style: solid;
-  border-width: thick;
+  height: 100%;
+  width: 100%;
+
+
 }

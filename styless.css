@@ -1,5 +1,7 @@
-body {
-  background-color: #D3D3D3;
-  border-style: double;
-  border-width:medium;
+
+#screen-menu {
+    background: url(../img/trans-tile-feature-nav.png);
+    bottom: 0;
+    position: absolute;
+    width: 100%;
 }
