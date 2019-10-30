@@ -62,3 +62,26 @@ p {
 
 
 }
+
+.calendarcontainer {
+  width: 100%;
+  position: absolute;
+  left: 20%;
+  
+}
+.calendar{
+  width: 60%;
+  align-content: center;
+}
+.calendarbackground{
+  background-image: url("./img/background.jpg");
+}
+
+.btn-group-vertical {
+  width: 10%;
+
+}
+h1{
+  font-size: 300%;
+  text-align-last: center;
+}
