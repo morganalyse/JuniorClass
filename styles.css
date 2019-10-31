@@ -1,5 +1,5 @@
 body {
-    
+
 
 
 }
@@ -15,7 +15,9 @@ ul {
 
 
 }
-
+.nav-item{
+  color: white;
+}
 a {
   display: block;
   padding: 10px;
@@ -26,7 +28,8 @@ a {
 }
 
 .navbar {
-color: black;
+color: white;
+
 }
 
 h3 {
@@ -84,4 +87,6 @@ p {
 h1{
   font-size: 300%;
   text-align-last: center;
+  color: white;
+font-family: 'Nanum Myeongjo', serif;
 }
