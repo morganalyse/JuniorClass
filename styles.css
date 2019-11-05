@@ -1,8 +1,5 @@
 body {
   background: Grey;
-
-
-
 }
 
 ul {
@@ -10,27 +7,19 @@ ul {
   margin: 0;
   padding: 0;
   width: 400px;
-  background: maroon;
   text-align: center;
-  font-family: 'Permanent Marker', cursive;
-
-
+font-family: 'Staatliches', cursive;
+background-color: maroon;
 }
-.nav-item{
-  color: black;
-}
+
 a {
   display: block;
   padding: 10px;
   text-decoration: none;
-  color: #000;
+  color: black;
   align-content: flex-end;
   align: right;
-}
-
-.navbar {
-color: black;
-
+  ]
 }
 
 h3 {
@@ -38,6 +27,7 @@ h3 {
   position: inherit;
   text-align-last: center;
   font-family: 'Amatic SC', cursive;
+
 }
 
 .front {
@@ -47,57 +37,46 @@ h3 {
   width: 50%;
 }
 
-.sign {
-  width: 185px;
-  height: 770px;
-
-}
-
 p {
   font-size: 25px;
   text-align-last: center;
   font-family: 'Amatic SC', cursive;
   font-family: 'Domine', serif;
-
 }
 
-.school {
-  height: 100%;
-  width: 100%;
-
-
+.img-fluid{
+width: 300%;
 }
 
 .calendarcontainer {
   width: 100%;
   position: absolute;
   left: 20%;
-
 }
-.calendar{
+
+.calendar {
   width: 60%;
   align-content: center;
 }
 
-
-
 .btn-group-vertical {
   width: 10%;
-
 }
-h1{
-  font-size: 300%;
+
+h1 {
+  font-size: 400%;
   text-align-last: center;
   color: white;
-font-family: 'Nanum Myeongjo', serif;
+  font-family: 'Nanum Myeongjo', serif;
+  border-style: double;
 }
-.btn-group{
-  width: 100%;
 
+.btn-group {
+  width: 100%;
 }
-h5{
+
+h5 {
   font-size: 50px;
   color: black;
   border-style: solid;
-
 }
