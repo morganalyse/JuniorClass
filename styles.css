@@ -8,8 +8,7 @@ ul {
   padding: 0;
   width: 400px;
   text-align: center;
-
-background-color: maroon;
+  background-color: maroon;
 }
 
 a {
@@ -27,7 +26,6 @@ h3 {
   position: inherit;
   text-align-last: center;
   font-family: 'Amatic SC', cursive;
-
 }
 
 .front {
@@ -44,8 +42,8 @@ p {
   font-family: 'Domine', serif;
 }
 
-.img-fluid{
-width: 300%;
+.img-fluid {
+  width: 300%;
 }
 
 .calendarcontainer {
@@ -81,8 +79,6 @@ h5 {
   border-style: solid;
 }
 
-.sportsbar{
-font-size: 300%;
-
-
+.sportsbar {
+  font-size: 300%;
 }
