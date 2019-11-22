@@ -2,32 +2,35 @@
 body {
   background: maroon;
 }
+
 h3 {
   font-size: 60px;
   position: inherit;
   text-align-last: center;
   font-family: 'Amatic SC', cursive;
 }
+
 p {
   font-size: 25px;
   text-align-last: center;
   font-family: 'Amatic SC', cursive;
-  font-family: 'Domine', serif;}
-  h5 {
-    font-size: 50px;
-    color: maroon;
-    border-style: solid;
-
+  font-family: 'Domine', serif;
 }
+
+h5 {
+  font-size: 50px;
+  color: maroon;
+  border-style: solid;
+}
+
 /* Navigation styles    */
-ul{
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   width: 100%;
   text-align: center;
   background-color: black;
-
 }
 
 a {
@@ -36,14 +39,11 @@ a {
   color: black;
   align-content: flex-end;
   align: right;
-
 }
 
 .btn-group-vertical {
   width: 10%;
 }
-
-
 
 .btn-group {
   width: 100%;
@@ -56,6 +56,7 @@ h1 {
   color: white;
   font-family: 'Nanum Myeongjo', serif;
 }
+
 .front {
   display: block;
   margin-left: auto;
@@ -63,11 +64,10 @@ h1 {
   width: 50%;
 }
 
-
-
 .img-fluid {
   width: 300%;
 }
+
 /*Events Page*/
 .calendarcontainer {
   width: 100%;
@@ -79,7 +79,6 @@ h1 {
   width: 60%;
   align-content: center;
 }
-
 
 /* Styles for Contact Page*/
 .jumbotron {
