@@ -85,3 +85,14 @@ h1 {
   background-color: maroon;
   height: 10px;
 }
+/* Styles for Graduation page*/
+.graduationinfo{
+font-size: 34px;
+align-content: center;
+color: white;
+
+}
+h2{
+  font-size: 30px;
+  text-align-last: center;
+}
