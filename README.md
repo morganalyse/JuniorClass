@@ -36,3 +36,6 @@ Morgan- +1)check links
         +2)beautify it
         +3) verify each page has a max of two fonts for page
         4) Add Comments to each page
+
+
+Only thing I see that you need to work on other than your list is the responsiveness of the site.
