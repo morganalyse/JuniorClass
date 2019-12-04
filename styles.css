@@ -17,13 +17,17 @@ p {
   font-family: 'Domine', serif;
 }
 
+.sports-text{
+  color: white;
+}
+
 h5 {
   font-size: 50px;
   color: maroon;
   border-style: solid;
 }
 
-/* Navigation styles    */
+/* Navigation styles */
 ul {
   list-style-type: none;
   margin: 0;
@@ -42,7 +46,7 @@ a {
 }
 
 .btn-group-vertical {
-  width: 10%;
+  width: 40%;
 }
 
 .btn-group {
@@ -73,6 +77,7 @@ h1 {
   width: 100%;
   position: absolute;
   left: 20%;
+  margin-bottom: auto;
 }
 
 .calendar {
@@ -95,4 +100,19 @@ color: white;
 h2{
   font-size: 30px;
   text-align-last: center;
+
+}
+
+.footer{
+  position:absolute;
+    bottom:0;
+    width:100%;
+    height:30px;   /* Height of the footer */
+    background:#6cf;
+    margin-top: 100px;
+
+}
+
+.table{
+  height: 100%;
 }
