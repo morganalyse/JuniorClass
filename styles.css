@@ -36,7 +36,8 @@ ul {
   text-align: center;
   background-color: black;
 }
-/* Button group*/ 
+
+/* Button group*/
 a {
   padding: 10px;
   text-decoration: none;
@@ -110,9 +111,12 @@ h2{
     height:30px;   /* Height of the footer */
     background:#6cf;
     margin-top: 100px;
-
+}
 }
 
 .table{
   height: 100%;
+}
+.contacts{
+  color: White;
 }
