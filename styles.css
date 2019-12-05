@@ -1,4 +1,4 @@
-/* general styles*/
+/* General styles*/
 body {
   background: maroon;
 }
@@ -13,10 +13,10 @@ h3 {
 p {
   font-size: 25px;
   text-align-last: center;
-  font-family: 'Amatic SC', cursive;
   font-family: 'Domine', serif;
 }
 
+/* Sports picture text */
 .sports-text{
   color: white;
 }
@@ -36,7 +36,7 @@ ul {
   text-align: center;
   background-color: black;
 }
-
+/* Button group*/ 
 a {
   padding: 10px;
   text-decoration: none;
